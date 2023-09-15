@@ -1,0 +1,173 @@
+[
+    {
+      "id": 1,
+      "name": "Sirius",
+      "type": "Estrella binaria, Secuencia Principal (tipo A1V)",
+      "distancia": "8.6 años luz",
+      "mass": "2.02 masas solares",
+      "radius": "1.711 radios solares",
+      "temperature": "9,940 K",
+      "luminosity": "25.4 luminosidades solares",
+      "age": "200-300 millones de años",
+      "composition": {
+        "hydrogen": "71%",
+        "helium": "27%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Sirius es una de las estrellas más brillantes en el cielo nocturno y es una estrella binaria compuesta por Sirius A y Sirius B. Es una estrella blanca de la secuencia principal que ha consumido la mayor parte de su hidrógeno y se encuentra en una etapa avanzada de su vida."
+    },
+    {
+      "id": 2,
+      "name": "Betelgeuse",
+      "type": "Estrella supergigante roja (M2Iab)",
+      "distancia": "642.5 años luz",
+      "mass": "15.5 masas solares",
+      "radius": "887 radios solares",
+      "temperature": "3,600 K",
+      "luminosity": "120,000 luminosidades solares",
+      "age": "8-8.5 millones de años",
+      "composition": {
+        "hydrogen": "85%",
+        "helium": "13%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Betelgeuse es una estrella supergigante roja en la constelación de Orión. Es una de las estrellas más grandes conocidas y está en una fase avanzada de su evolución estelar."
+    },
+    {
+      "id": 3,
+      "name": "Vega",
+      "type": "Estrella de la secuencia principal (tipo A0V)",
+      "distancia": "25 años luz",
+      "mass": "2.1 masas solares",
+      "radius": "2.3 radios solares",
+      "temperature": "9,575 K",
+      "luminosity": "37.1 luminosidades solares",
+      "age": "455 millones de años",
+      "composition": {
+        "hydrogen": "73%",
+        "helium": "26%",
+        "otros_elementos": "1%"
+      },
+      "stellar_history": "Vega es una estrella de la secuencia principal en la constelación de Lira y es una de las estrellas más brillantes en el cielo nocturno."
+    },
+    {
+      "id": 4,
+      "name": "Alpha Centauri A",
+      "type": "Estrella de la secuencia principal (tipo G2V)",
+      "distancia": "4.37 años luz",
+      "mass": "1.1 masas solares",
+      "radius": "1.2 radios solares",
+      "temperature": "5,790 K",
+      "luminosity": "1.5 luminosidades solares",
+      "age": "6.3 mil millones de años",
+      "composition": {
+        "hydrogen": "71%",
+        "helium": "27%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Alpha Centauri A es la estrella principal del sistema estelar Alpha Centauri y es similar al Sol en muchos aspectos."
+    },
+    {
+      "id": 5,
+      "name": "Proxima Centauri",
+      "type": "Enana roja (tipo M5.5V)",
+      "distancia": "4.24 años luz",
+      "mass": "0.12 masas solares",
+      "radius": "0.14 radios solares",
+      "temperature": "3,042 K",
+      "luminosity": "0.0015 luminosidades solares",
+      "age": "4.85 mil millones de años",
+      "composition": {
+        "hydrogen": "93%",
+        "helium": "7%",
+        "otros_elementos": "<1%"
+      },
+      "stellar_history": "Proxima Centauri es una enana roja en el sistema estelar Alpha Centauri y es la estrella más cercana al sistema solar."
+    },
+    {
+      "id": 6,
+      "name": "Antares",
+      "type": "Supergigante roja (M1.5Iab-b)",
+      "distancia": "550 años luz",
+      "mass": "12 masas solares",
+      "radius": "680 radios solares",
+      "temperature": "3,500 K",
+      "luminosity": "65,000 luminosidades solares",
+      "age": "12-15 millones de años",
+      "composition": {
+        "hydrogen": "75%",
+        "helium": "23%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Antares es una supergigante roja en la constelación de Escorpio y es una de las estrellas más grandes conocidas."
+    },
+    {
+      "id": 7,
+      "name": "Polaris",
+      "type": "Estrella variable Cefeida (tipo F7Ib-II)",
+      "distancia": "431 años luz",
+      "mass": "4.5 masas solares",
+      "radius": "37 radios solares",
+      "temperature": "6,000 K",
+      "luminosity": "2,500 luminosidades solares",
+      "age": "70-150 millones de años",
+      "composition": {
+        "hydrogen": "70%",
+        "helium": "28%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Polaris es una estrella variable Cefeida en la constelación de la Osa Menor y es conocida como la Estrella Polar debido a su posición cercana al polo norte celeste."
+    },
+    {
+      "id": 8,
+      "name": "Deneb",
+      "type": "Supergigante azul (A2Ia)",
+      "distancia": "3,230 años luz",
+      "mass": "19 masas solares",
+      "radius": "203 radios solares",
+      "temperature": "8,500 K",
+      "luminosity": "200,000 luminosidades solares",
+      "age": "10 millones de años",
+      "composition": {
+        "hydrogen": "71%",
+        "helium": "28%",
+        "otros_elementos": "1%"
+      },
+      "stellar_history": "Deneb es una supergigante azul en la constelación del Cisne y es una de las estrellas más luminosas conocidas."
+    },
+    {
+      "id": 9,
+      "name": "Rigel",
+      "type": "Supergigante azul (B8Ia)",
+      "distancia": "772 años luz",
+      "mass": "17 masas solares",
+      "radius": "118 radios solares",
+      "temperature": "11,000 K",
+      "luminosity": "85,000 luminosidades solares",
+      "age": "8-10 millones de años",
+      "composition": {
+        "hydrogen": "75%",
+        "helium": "24%",
+        "otros_elementos": "1%"
+      },
+      "stellar_history": "Rigel es una supergigante azul en la constelación de Orión y es una de las estrellas más brillantes y calientes conocidas."
+    },
+    {
+      "id": 10,
+      "name": "Aldebaran",
+      "type": "Gigante roja (K5III)",
+      "distancia": "65 años luz",
+      "mass": "1.7 masas solares",
+      "radius": "44 radios solares",
+      "temperature": "3,900 K",
+      "luminosity": "425 luminosidades solares",
+      "age": "6.7 mil millones de años",
+      "composition": {
+        "hydrogen": "68%",
+        "helium": "31%",
+        "otros_elementos": "1%"
+      },
+      "stellar_history": "Aldebaran es una gigante roja en la constelación de Tauro y es una de las estrellas más brillantes en el cielo nocturno."
+    }
+  ]
+  
